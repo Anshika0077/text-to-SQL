@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+psycopg[binary]
+psycopg-pool
+sqlglot
+pandas
+httpx
+python-dotenv
+pyyaml
+streamlit
+plotly
+requests
+pytest
